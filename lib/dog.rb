@@ -10,12 +10,7 @@
     def name
         return @name
     end
-    
-    def age
-        return @age
-    end
-      def breed
-      return @breed
+ 
       end
       dog = Dog.new("fido")
   dog2 = Dog.new("snoopy")
