@@ -12,10 +12,7 @@
     end
  
       end
-      dog = Dog.new("fido")
-  dog2 = Dog.new("snoopy")
-  dog3 = Dog.new("lassie")
-end
+
  dog = Dog.new("fido")
  dog2 = Dog.new("snoopy")
  dog3 = Dog.new("lassie")
